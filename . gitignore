@@ -1,0 +1,6 @@
+__pycache__/
+*.txt
+*.log
+*.pyc
+*.xlsx
+!sample_cashless.xlsx
